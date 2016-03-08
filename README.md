@@ -11,3 +11,5 @@
 + [作业](./rule/zuoye.md)<br/>
 + [行为](./rule/xingwei.md)<br/>
 + [规定](./rule/guiding.md)<br/>
++ [期望](./rule/qiwang.md)<br/>
++ [团队打分](./rule/score.md)
