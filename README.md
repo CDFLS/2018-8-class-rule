@@ -6,5 +6,5 @@
 鉴于我班班规十分特殊，故建此托管。<br/>
 
 班规目录：<br/>
-1. [纪律](./rule/jilv.md)<br/>
-1. [卫生](./rule/weisheng.md)<br/>
++ [纪律](./rule/jilv.md)<br/>
++ [卫生](./rule/weisheng.md)<br/>
