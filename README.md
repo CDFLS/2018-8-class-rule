@@ -8,3 +8,5 @@
 班规目录：<br/>
 + [纪律](./rule/jilv.md)<br/>
 + [卫生](./rule/weisheng.md)<br/>
++ [作业](./rule/zuoye.md)<br/>
++ [行为](./rule/xingwei.md)<br/>
